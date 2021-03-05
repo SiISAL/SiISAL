@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+
+[<img align="left" alt="Sinatrio | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg">][linkedin]
+[<img align="left" alt="Sinatrio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg">][twitter]
+[<img align="left" alt="Sinatrio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg">][instagram]
+
