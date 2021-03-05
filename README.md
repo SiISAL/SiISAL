@@ -1,19 +1,4 @@
-### Hi there 👋
-
-<!--
-**SiISAL/SiISAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi yow I'm Faishal, Computer Science Student 🎓💻 from Indonesia. I have many interests like marketing editing but focus on Software Engineering and really enjoy.✌
 
 ### Connect with me:
 
@@ -21,3 +6,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="Sinatrio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg">][twitter]
 [<img align="left" alt="Sinatrio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg">][instagram]
 
+### Uh, I'm a human And I just wanted to, you know For the sake of all of us earthlings out there Just wanted to say
+- 🏢 I'm currently working on my Project
+- 🌱 I’m currently learning FrontEnd
+- 🎯 2021 Goals: more productive and successful to 100k subscribers
+- ⚡ I'm fact: Ride, Editing
