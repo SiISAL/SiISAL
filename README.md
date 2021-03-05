@@ -1,4 +1,5 @@
-### Hi yow I'm Faishal, Computer Science Student 🎓💻 from Indonesia. I have many interests like marketing editing but focus on Software Engineering and really enjoy.✌
+### Hey yow 
+I'm Faishal, Computer Science Student 🎓💻 from Indonesia. I have many interests like marketing editing but focus on Software Engineering and really enjoy.✌
 
 ### Connect with me:
 
